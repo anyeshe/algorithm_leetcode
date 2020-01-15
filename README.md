@@ -1,2 +1,2 @@
 # algorithm_leetcode
-刷LeetCode
+刷 LeetCode .
